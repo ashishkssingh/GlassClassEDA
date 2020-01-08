@@ -20,11 +20,4 @@ Source : [https://www.kaggle.com/uciml/glass](https://www.kaggle.com/uciml/glass
 10. Fe: Iron
 
 ## **Target**
- - Type of glass: (class attribute)
- 1. building_windows_float_processed
- 2. building_windows_non_float_processed
- 3. vehicle_windows_float_processed
- 4. vehicle_windows_non_float_processed (none in this database)
- 5. containers
- 6. tableware
- 7. headlamps
+ - Type of glass
